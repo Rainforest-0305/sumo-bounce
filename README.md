@@ -8,7 +8,7 @@ Charge up, aim, and shove your rival out of the shrinking ring. Arcade tournamen
 
 `Sumo Bounce` is an installable Progressive Web App (PWA). The whole game is a single
 self-contained HTML file with an offline service worker - there are no runtime
-network calls, no accounts, no ads and no tracking. It runs fully offline once
+network calls, no accounts and no tracking. It runs fully offline once
 installed.
 
 * Live URL: <https://rainforest-0305.github.io/sumo-bounce/>
